@@ -26,3 +26,8 @@ Rewards: 3 agi cloak, 3 int cloth belt
 ### Verog / Barak / Hezrul / Counterattack
 https://classic.wowhead.com/quest=852/hezrul-bloodmark
 Rewards: 3 agi 1 sta ring
+
+# Cooking & Fishing
+
+## Where to train 150-225 Cooking and Fishing?
+https://www.wowhead.com/forums&topic=23121
