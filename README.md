@@ -5,6 +5,9 @@ https://tbc-twinhead.twinstar.cz/?quests=2.2437
 https://classic.wowhead.com/guides/ragefire-chasm-classic-dungeon
 https://classic.wowhead.com/ragefire-chasm-quests
 
+## Shadowfang Keep
+http://www.wow-pro.com/dungeon_and_raid_guides/1626_snowflake039s_shadowfang_keep_guide
+
 # Leveling
 
 ## Level 11-16 quest rewards available to horde rogue
