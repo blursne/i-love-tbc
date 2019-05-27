@@ -1,0 +1,13 @@
+# Leveling
+
+- http://forum.warmane.com/showthread.php?t=363375&s=79bd688e6a0d98c7a0b195fb99ed4669&p=2846919&viewfull=1#post2846919
+
+> Don't listen to them, I saw many people make the mistake to start off with Suppression or Demonic embrace. Worthless talents, let me tell you why, the only spell from affliction tree that matters if you miss is Unstable Affliction. You missed a Corruption. so what? Cast it again instantly. And the other one is useless too. Increases your total Stamina by 15%, how much stamina you have at level 15->30, 50->100 stamina? So you get 7->15 more stamina. That's nothing.
+
+> You need to get talents that matter. Start off with Improved Corruption to make it instant cast, then go into Improved Life Tap, and Soul Siphon. Get your Amplify Curse and Improved Curse of Agony, finish your Drain Soul (I would pick something else if I could because this talent is kinda useless for me). After this get the bread and butter of Affliction: Nightfall. After this get the Empowered Corruption into Siphon Life (another key spell that you need to rush in this tree). Right now there are so many bad talents I go for Suppression into Shadow Mastery. Get Contagion after and fill out 5 points in Shadow Embrace because there is nothing else to get and Unstable Affliction.
+
+> Next tree is Demonology, get Demonic Embrace because there is nothing good in that tree at first. Fel Intellect and a few Improved Voidwalker points (I never needed this talent, my Voidwalker never loses aggro) then Fel Domination / Fel Stamina into Master Summoner.
+
+> Now let me explain why I skipped some talents. I didn't take Fel Concentration because I never drain tank. Is mostly a PvP talent but you won't need it that much because you are already strong enough, Soul stone, Health Stone, Potion of health, Voidwalker sacrifice. Also you got fear when you want to drain. This is also mostly used for the Succubus drain tank leveling spec. Which is amazing for farming at low levels but you get in trouble if you aggro more then one mob. I didn't took Grim Reach because what's the point? I mean you are closer to loot the mob and I don't see a use for it, my range was fine. Dark Pact, I actually took this talent but it was useless, I mean my Voidwalker was always out of mana and I never used it.
+
+> Your rotation is mostly Curse of Agony, Corruption, Siphon Life, Unstable Affliction, Immolate, wand. Keep all time at least 3 Soul Shards in your bags in case of a gank and you can also do a trick to get a little more mana, Life tap -> drain life or use drain mana when you can. Drain soul also gives mana but is annoying because it fills your bags. Also, always resummon the voidwalker when he is <10% hp, it costs less hp then to heal it with Health Funnel. 
