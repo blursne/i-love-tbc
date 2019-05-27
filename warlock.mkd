@@ -1,6 +1,9 @@
 # Guides
 - https://legacy-wow.com/tbc-warlock-guide/
 
+# Addons
+- Drop shards: https://www.wowinterface.com/downloads/info11193-TidySoulShards.html
+
 # Leveling
 
 - http://forum.warmane.com/showthread.php?t=363375&s=79bd688e6a0d98c7a0b195fb99ed4669&p=2846919&viewfull=1#post2846919
