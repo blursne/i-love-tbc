@@ -31,3 +31,9 @@ Rewards: 3 agi 1 sta ring
 
 ## Where to train 150-225 Cooking and Fishing?
 https://www.wowhead.com/forums&topic=23121
+
+# Rogue Tanking
+
+https://wowwiki.fandom.com/wiki/Rogues_as_tanks
+
+https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-guides/164361-guide-tank-rogue.html
